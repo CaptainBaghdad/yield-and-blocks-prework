@@ -1,4 +1,4 @@
-def hello_t(obj)
+def hello_t(array)
  i = 0
  
   while i < array.length
