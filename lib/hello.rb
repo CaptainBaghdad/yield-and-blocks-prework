@@ -1,5 +1,5 @@
 def hello_t(obj)
-yield(obj)
+
 end
 
 # call your method here!
